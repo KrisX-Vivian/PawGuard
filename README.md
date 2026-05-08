@@ -241,12 +241,6 @@ python src/demo_detect.py
 
 ---
 
-## 📄 许可证
-
-本项目基于 MIT 许可证开源，详见 [LICENSE](LICENSE) 文件。
-
----
-
 ## 🙏 致谢
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 目标检测框架
@@ -257,5 +251,5 @@ python src/demo_detect.py
 ---
 
 **项目主页**：https://github.com/KrisX-Vivian/PawGuard  
-**课程信息**：计算机视觉 | 2023级本科 | [学校名称]  
+**课程信息**：计算机视觉 | 2023级本科 | 北京语言大学 
 **最后更新**：2026年5月6日
